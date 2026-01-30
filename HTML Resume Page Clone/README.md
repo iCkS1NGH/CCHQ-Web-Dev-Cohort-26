@@ -1,6 +1,7 @@
-**Live Preview:**  
+# Live Preview: 
 
 https://...
+<hr>
 
 # 📄  About the code:
 
