@@ -1,6 +1,6 @@
 # Live Preview: 
 
-https://...
+[resume📝🖇️](https://john-doe-cv-template-clone.netlify.app/)
 <hr>
 
 # 📄  About the code:
