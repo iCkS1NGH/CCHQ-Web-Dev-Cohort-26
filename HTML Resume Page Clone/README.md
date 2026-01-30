@@ -5,7 +5,7 @@
 
 # 📄  About the code:
 
-This project is a **simple personal resume website** built using **🛠️ HTML5** only. It showcases  information such as **skills, experience, projects, education, and contact details** in a clean and readable layout.
+This is an assignment project where I clone the file <b>html assignment.jpeg</b> using **🛠️ HTML5** only. It is a **simple exemplary resume template of exemplary person named John Doe**. It showcases  information such as **skills, experience, projects, education, and contact details** in a clean and readable layout.
 
 ## 📂 Project Structure
 ```
