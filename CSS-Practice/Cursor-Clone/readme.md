@@ -15,7 +15,7 @@ This project recreates the layout and visual structure of the original Cursor we
 
 
 **Live Preview**
-//...
+https://cursor-clone-raw-css.netlify.app/
 
 
 
@@ -62,10 +62,7 @@ cursor-clone/
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone //...
-```
+1. Clone the repository locally.
 
 2. Open the project folder:
 ```
@@ -104,3 +101,4 @@ cd cursor-clone
 
 This project is for educational purposes and does not include a license.
 Feel free to explore and learn!
+
